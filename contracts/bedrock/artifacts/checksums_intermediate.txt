@@ -1,0 +1,2 @@
+f07166b497434ef6722c31f8a2987facddfc405d27bcbdd1e480dd209333887c  ./target/wasm32-unknown-unknown/release/bedrock.wasm
+be97b2e3ca4f397615169fbd25274946dad44d8724d3e9a9d50abc3cc22460dd  ./target/wasm32-unknown-unknown/release/bedrock_base.wasm

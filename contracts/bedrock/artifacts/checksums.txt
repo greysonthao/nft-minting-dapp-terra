@@ -1,0 +1,2 @@
+1884ee028faebced5171e1bf911e73eab103b62e5de83ab82221e39f514adb43  bedrock.wasm
+6a9158afd3f80c302285789b9e7d957461b9fc3bf618eb890b4bc1954ed65cea  bedrock_base.wasm

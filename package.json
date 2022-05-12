@@ -1,0 +1,14 @@
+{
+  "name": "playful-ponies-nft-terra",
+  "version": "1.0.0",
+  "description": "",
+  "dependencies": {
+    "@terra-money/terrain": "0.2.0",
+    "dotenv": "^16.0.0"
+  },
+  "workspaces": [
+    "frontend"
+  ],
+  "author": "",
+  "license": "ISC"
+}

@@ -1,0 +1,10 @@
+/Users/tougerthao/Documents/terra_nfts/playful_ponies_terra/contracts/bedrock-base/target/debug/deps/cosmwasm_schema-6de6039e44857c97.rmeta: /Users/tougerthao/.cargo/registry/src/github.com-1ecc6299db9ec823/cosmwasm-schema-0.16.7/src/lib.rs /Users/tougerthao/.cargo/registry/src/github.com-1ecc6299db9ec823/cosmwasm-schema-0.16.7/src/casing.rs /Users/tougerthao/.cargo/registry/src/github.com-1ecc6299db9ec823/cosmwasm-schema-0.16.7/src/export.rs /Users/tougerthao/.cargo/registry/src/github.com-1ecc6299db9ec823/cosmwasm-schema-0.16.7/src/remove.rs
+
+/Users/tougerthao/Documents/terra_nfts/playful_ponies_terra/contracts/bedrock-base/target/debug/deps/libcosmwasm_schema-6de6039e44857c97.rlib: /Users/tougerthao/.cargo/registry/src/github.com-1ecc6299db9ec823/cosmwasm-schema-0.16.7/src/lib.rs /Users/tougerthao/.cargo/registry/src/github.com-1ecc6299db9ec823/cosmwasm-schema-0.16.7/src/casing.rs /Users/tougerthao/.cargo/registry/src/github.com-1ecc6299db9ec823/cosmwasm-schema-0.16.7/src/export.rs /Users/tougerthao/.cargo/registry/src/github.com-1ecc6299db9ec823/cosmwasm-schema-0.16.7/src/remove.rs
+
+/Users/tougerthao/Documents/terra_nfts/playful_ponies_terra/contracts/bedrock-base/target/debug/deps/cosmwasm_schema-6de6039e44857c97.d: /Users/tougerthao/.cargo/registry/src/github.com-1ecc6299db9ec823/cosmwasm-schema-0.16.7/src/lib.rs /Users/tougerthao/.cargo/registry/src/github.com-1ecc6299db9ec823/cosmwasm-schema-0.16.7/src/casing.rs /Users/tougerthao/.cargo/registry/src/github.com-1ecc6299db9ec823/cosmwasm-schema-0.16.7/src/export.rs /Users/tougerthao/.cargo/registry/src/github.com-1ecc6299db9ec823/cosmwasm-schema-0.16.7/src/remove.rs
+
+/Users/tougerthao/.cargo/registry/src/github.com-1ecc6299db9ec823/cosmwasm-schema-0.16.7/src/lib.rs:
+/Users/tougerthao/.cargo/registry/src/github.com-1ecc6299db9ec823/cosmwasm-schema-0.16.7/src/casing.rs:
+/Users/tougerthao/.cargo/registry/src/github.com-1ecc6299db9ec823/cosmwasm-schema-0.16.7/src/export.rs:
+/Users/tougerthao/.cargo/registry/src/github.com-1ecc6299db9ec823/cosmwasm-schema-0.16.7/src/remove.rs:

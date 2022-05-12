@@ -1,0 +1,38 @@
+{
+  "_global": {
+    "_base": {
+      "instantiation": {
+        "instantiateMsg": {
+          "name": "Playful Ponies",
+          "symbol": "PP",
+          "treasury_account": "terra1gf7pjz3rk8jhudx773fdrslvh6fqhasm9md4ad",
+          "max_token_count": 11,
+          "frozen": false,
+          "is_mint_public": true,
+          "price": { "amount": "250000", "denom": "uluna" },
+          "royalty_payments": true,
+          "royalty_percentage": 50,
+          "royalty_payment_address": "terra1gf7pjz3rk8jhudx773fdrslvh6fqhasm9md4ad"
+        }
+      }
+    }
+  },
+  "mainnet": {
+    "_connection": {
+      "chainID": "columbus-5",
+      "URL": "https://lcd.terra.dev"
+    }
+  },
+  "testnet": {
+    "_connection": {
+      "chainID": "bombay-12",
+      "URL": "https://bombay-lcd.terra.dev"
+    }
+  },
+  "localterra": {
+    "_connection": {
+      "chainID": "localterra",
+      "URL": "http://localhost:3060"
+    }
+  }
+}
